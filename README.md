@@ -1,0 +1,1 @@
+# Mapping-regional-risks-from-climate-change-for-rainfed-cultivation-using-R-and-ML
